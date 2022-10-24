@@ -10,22 +10,21 @@
 
 # Projects
 ### Data Science:
-- [Customer Churn using R](https://github.com/girgismicheal/Customer-Churn-Classification-using-R)
-- [Market Basket Analysis (MBA)](https://github.com/girgismicheal/Market-Basket-Analysis-using-R)
+- Customer Churn using R
+- Market Basket Analysis (MBA)
 - Build RDBMS using SQL Server
 - Build Data Warehousing using SQL Server and R Language
 
 ### Machine Learning (ML):
-- [Network Intrusion Detection using Deep Learning](https://github.com/girgismicheal/Network-Intrusion-Detection-using-DeepLearning)
+- Network Intrusion Detection using Deep Learning
 - Feature Selection Using Clustering Methods Vs Filter-Wrapper Methods
 - Build One-vs-Rest and One-vs-One strategies Based-On the Most Important Features
 
 ### Natural Language Processing (NLP):
-- Arabic Text Summarization After Doing a Literature Review
-- [Book Classification (Classification-Is-All-You-Need)](https://github.com/girgismicheal/-Book-Classification--Classification-Is-All-You-Need-)
-- [Book Clustering (Clustering-Is-All-You-Need)](https://github.com/girgismicheal/Book-Clustering-Clustering-Is-All-You-Need-)
-- [iCare ChatBot](https://github.com/girgismicheal/iCare-ChatBot)
-- Autocorrection
+- Literature Review
+- Gutenberg Books Classification
+- Gutenberg Books Clustering
+- Dialogflow ChatBot
 
 ### Computer Vision (CV):
 - Driver Drowsiness Detection
@@ -35,16 +34,16 @@
 - A Fake Task Filtering Security Layer using CGAN (Conditional GAN)
 
 ### Reinforcement Learning (RL):
-- [Atari Games using Q-Learning](https://github.com/girgismicheal/Atari-Games-using-Q-Learning)
+- Atari Games using Q-Learning
 
 ### Graduation Projects
 - Ottawa University:
-  - Virtual Fitting Room
+  - Automating novel terms and usage detection in Egyptian Arabic
 - Mansoura University:
-  - [Self-Parking Car](https://github.com/Mostafa-ashraf19/BrainWheel)
+  - Self-Parking Car
 
 # Problem Solving
 ### Hackerrank:
-- [3-Months]: 
+- 3-Months Preparation Kit
 
   
