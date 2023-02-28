@@ -40,7 +40,7 @@
 - Chinese Numbers by Hand Gestures Classification
 
 ### GANs:
-- A Fake Task Filtering Security Layer using CGAN (Conditional GAN)
+- [Generating Fake Tasks using GANs](https://github.com/Mostafanofal453/Generating-Fake-Tasks-using-GANs)
 
 ### Reinforcement Learning (RL):
 - Atari Games using Q-Learning
