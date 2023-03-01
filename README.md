@@ -34,7 +34,7 @@
 - A Fake Task Filtering Security Layer using CGAN (Conditional GAN)
 
 ### Reinforcement Learning (RL):
-- Atari Games using Q-Learning
+- [Reinforcement Q-Learning with OpenAI Gym](https://github.com/Mostafanofal453/Reinforcement-Q-Learning-with-OpenAI-Gym)
 
 ### Graduation Projects
 - Ottawa University:
