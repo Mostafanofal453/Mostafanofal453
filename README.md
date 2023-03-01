@@ -26,11 +26,10 @@
 
 ### Machine Learning (ML):
 - [Network Intrusion Detection with Hyperparameter Tuning](https://github.com/Mostafanofal453/Network-Intrusion-Detection-with-Hyperparameter-Tuning)
-- Feature Selection Using Clustering Methods Vs Filter-Wrapper Methods
-- Build One-vs-Rest and One-vs-One strategies Based-On the Most Important Features
+- Online Learning Models using Streaming Data
 
 ### Natural Language Processing (NLP):
-- Literature Review
+- Book Recommendation System
 - Gutenberg Books Classification
 - Gutenberg Books Clustering
 - Dialogflow ChatBot
@@ -38,6 +37,7 @@
 ### Computer Vision (CV):
 - Driver Drowsiness Detection
 - Chinese Numbers by Hand Gestures Classification
+- Plants Leaf Counting using VGG16
 
 ### GANs:
 - [Generating Fake Tasks using GANs](https://github.com/Mostafanofal453/Generating-Fake-Tasks-using-GANs)
@@ -45,8 +45,3 @@
 ### Reinforcement Learning (RL):
 - [Reinforcement Q-Learning with OpenAI Gym](https://github.com/Mostafanofal453/Reinforcement-Q-Learning-with-OpenAI-Gym)
 
-# Problem Solving
-### Hackerrank:
-- 3-Months Preparation Kit
-
-  
