@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mostafa Nofal</h1>
-<h3 align="center"> Machine learning Engineer | Data Scientist | AI Master's Student at the University of Ottawa, Canada</h3>
+<h3 align="center"> Data Scientist | Machine learning Engineer | AI Master's Student at the University of Ottawa, Canada</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -9,7 +9,16 @@
 </p>
 
 # Projects
+### Graduation Projects
+
+- Ottawa University:
+  - Automating novel terms and usage detection in Egyptian Arabic
+  - [2.5+ Million Rows Egyptian Datasets Collection](https://github.com/Mostafanofal453/2.5-Million-Rows-Egyptian-Datasets-Collection)
+- Mansoura University:
+  - Self-Parking Car
+
 ### Data Science:
+
 - Customer Churn using R
 - Market Basket Analysis (MBA)
 - Build RDBMS using SQL Server
@@ -31,16 +40,10 @@
 - Chinese Numbers by Hand Gestures Classification
 
 ### GANs:
-- A Fake Task Filtering Security Layer using CGAN (Conditional GAN)
+- [Generating Fake Tasks using GANs](https://github.com/Mostafanofal453/Generating-Fake-Tasks-using-GANs)
 
 ### Reinforcement Learning (RL):
 - [Reinforcement Q-Learning with OpenAI Gym](https://github.com/Mostafanofal453/Reinforcement-Q-Learning-with-OpenAI-Gym)
-
-### Graduation Projects
-- Ottawa University:
-  - Automating novel terms and usage detection in Egyptian Arabic
-- Mansoura University:
-  - Self-Parking Car
 
 # Problem Solving
 ### Hackerrank:
