@@ -30,7 +30,7 @@
 
 ### Natural Language Processing (NLP):
 - Book Recommendation System
-- Gutenberg Books Classification
+- [Gutenberg Books Classification](https://github.com/Mostafanofal453/Gutenberg-Books-Classification)
 - Gutenberg Books Clustering
 - Dialogflow ChatBot
 
