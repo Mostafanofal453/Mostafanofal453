@@ -31,7 +31,7 @@
 ### Natural Language Processing (NLP):
 - Book Recommendation System
 - [Gutenberg Books Classification](https://github.com/Mostafanofal453/Gutenberg-Books-Classification)
-- Gutenberg Books Clustering
+- [Gutenberg Books Clustering](https://github.com/Mostafanofal453/Gutenberg-Books-Clustering)
 - Dialogflow ChatBot
 
 ### Computer Vision (CV):
