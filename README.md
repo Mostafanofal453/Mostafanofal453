@@ -9,20 +9,10 @@
 </p>
 
 # Projects
-### Graduation Projects
-
-- Ottawa University:
-  - Automating novel terms and usage detection in Egyptian Arabic
-  - [2.5+ Million Rows Egyptian Datasets Collection](https://github.com/Mostafanofal453/2.5-Million-Rows-Egyptian-Datasets-Collection)
-- Mansoura University:
-  - Self-Parking Car
-
 ### Data Science:
 
 - Customer Churn using R
 - Market Basket Analysis (MBA)
-- Build RDBMS using SQL Server
-- Build Data Warehousing using SQL Server and R Language
 
 ### Machine Learning (ML):
 - [Network Intrusion Detection with Hyperparameter Tuning](https://github.com/Mostafanofal453/Network-Intrusion-Detection-with-Hyperparameter-Tuning)
@@ -32,16 +22,25 @@
 - Book Recommendation System
 - [Gutenberg Books Classification](https://github.com/Mostafanofal453/Gutenberg-Books-Classification)
 - [Gutenberg Books Clustering](https://github.com/Mostafanofal453/Gutenberg-Books-Clustering)
-- Dialogflow ChatBot
+- [Ktaby Chatbot using Google Dialogflow](https://github.com/Mostafanofal453/Ktaby-Chatbot-using-Google-Dialogflow)
 
 ### Computer Vision (CV):
 - Driver Drowsiness Detection
 - Chinese Numbers by Hand Gestures Classification
 - Plants Leaf Counting using VGG16
+- Bird's type classification with ResNet101
 
 ### GANs:
 - [Generating Fake Tasks using GANs](https://github.com/Mostafanofal453/Generating-Fake-Tasks-using-GANs)
 
 ### Reinforcement Learning (RL):
 - [Reinforcement Q-Learning with OpenAI Gym](https://github.com/Mostafanofal453/Reinforcement-Q-Learning-with-OpenAI-Gym)
+
+### Graduation Projects
+
+- Ottawa University:
+  - Automating novel terms and usage detection in Egyptian Arabic
+  - [2.5+ Million Rows Egyptian Datasets Collection](https://github.com/Mostafanofal453/2.5-Million-Rows-Egyptian-Datasets-Collection)
+- Mansoura University:
+  - Self-Parking Car
 
