@@ -9,6 +9,12 @@
 </p>
 
 # Projects
+### Graduation Project
+
+- Ottawa University:
+  - Automating novel terms and usage detection in Egyptian Arabic
+  - [2.5+ Million Rows Egyptian Datasets Collection](https://github.com/Mostafanofal453/2.5-Million-Rows-Egyptian-Datasets-Collection)
+
 ### Data Science:
 
 - Customer Churn using R
@@ -19,7 +25,7 @@
 - Online Learning Models using Streaming Data
 
 ### Natural Language Processing (NLP):
-- Book Recommendation System
+- [Book Recommendation System](https://github.com/Mostafanofal453/Book-Recommendation-System)
 - [Gutenberg Books Classification](https://github.com/Mostafanofal453/Gutenberg-Books-Classification)
 - [Gutenberg Books Clustering](https://github.com/Mostafanofal453/Gutenberg-Books-Clustering)
 - [Ktaby Chatbot using Google Dialogflow](https://github.com/Mostafanofal453/Ktaby-Chatbot-using-Google-Dialogflow)
@@ -35,12 +41,3 @@
 
 ### Reinforcement Learning (RL):
 - [Reinforcement Q-Learning with OpenAI Gym](https://github.com/Mostafanofal453/Reinforcement-Q-Learning-with-OpenAI-Gym)
-
-### Graduation Projects
-
-- Ottawa University:
-  - Automating novel terms and usage detection in Egyptian Arabic
-  - [2.5+ Million Rows Egyptian Datasets Collection](https://github.com/Mostafanofal453/2.5-Million-Rows-Egyptian-Datasets-Collection)
-- Mansoura University:
-  - Self-Parking Car
-
