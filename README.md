@@ -12,7 +12,7 @@
 ### Graduation Project
 
 - Ottawa University:
-  - [Automating novel terms and usage detection in Egyptian Arabic](https://github.com/Mostafanofal453/Automating-Novel-Terms-in-Egyptian-Arabic)
+  - [Automating Novel Terms in Egyptian Arabic](https://github.com/Mostafanofal453/Automating-Novel-Terms-in-Egyptian-Arabic)
   - [2.5+ Million Rows Egyptian Datasets Collection](https://github.com/Mostafanofal453/2.5-Million-Rows-Egyptian-Datasets-Collection)
 
 ### Data Science:
